@@ -15,6 +15,7 @@ Plugin 'VundleVim/Vundle.vim'
 " Added plugins
 Plugin 'tmhedberg/SimpylFold'
 Plugin 'Valloric/YouCompleteMe'
+Plugin 'iamcco/markdown-preview.nvim'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
